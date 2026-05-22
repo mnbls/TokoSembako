@@ -1,3 +1,12 @@
+/*
+||===================================||
+||           Kelompok  3             ||
+||===================================||
+|| Musaid Nabil Susena  || 124250056 ||
+|| Vanessa Putri Anazwa || 124250061 ||
+||===================================||
+*/
+	
 #include <iostream>
 #include <iomanip>
 #include <fstream>
@@ -178,7 +187,7 @@ int ValidasiAngka(string teks) {
 void Header(string judul) {
     cout << "==================================================\n";
 
-    int lebar = 50; // sama kayak panjang garis kamu
+    int lebar = 50; 
     int padding = (lebar - judul.length()) / 2;
     if (padding < 0) padding = 0;
 

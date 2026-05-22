@@ -1,5 +1,5 @@
 0 beras makanan 10000 12000 50 10
-1 gula makanan 12000 14000 36 12
+1 gula makanan 12000 14000 34 14
 2 minyak makanan 15000 18000 22 20
 3 mie makanan 2000 3000 100 25
 4 kopi minuman 5000 7000 60 15
